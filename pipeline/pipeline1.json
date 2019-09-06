@@ -34,8 +34,8 @@
 						"mappings": [
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 1
+									"name": "PersonID",
+									"type": "String"
 								},
 								"sink": {
 									"name": "PersonID",
@@ -44,8 +44,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 2
+									"name": "FullName",
+									"type": "String"
 								},
 								"sink": {
 									"name": "FullName",
@@ -54,8 +54,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 3
+									"name": "BonusAmount",
+									"type": "String"
 								},
 								"sink": {
 									"name": "BonusAmount",
